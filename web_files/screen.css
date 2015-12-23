@@ -531,6 +531,4 @@ form {
   display: inline; }
 
 object {
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
-  opacity: 0.5;
-  background-color: #900; }
+  border: 2px dotted #900; }
