@@ -1391,6 +1391,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/bg_header_ucilibrary copy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24799,
+		"inputAbbreviatedPath": "\/images\/bg_header_ucilibrary copy.jpg",
+		"outputAbbreviatedPath": "\/images\/bg_header_ucilibrary copy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/bg_header_ucilibrary.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
