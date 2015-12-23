@@ -530,5 +530,6 @@ a:active, a:hover {
 form {
   display: inline; }
 
-object {
+object,
+embed {
   border: 2px dotted #10FF0B; }
