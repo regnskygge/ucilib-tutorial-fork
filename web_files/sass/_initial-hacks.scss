@@ -1,6 +1,7 @@
 object {
-	// display: none;
+	border: 2px dotted #10FF0B;
+}
 
-	border: 2px dotted #900;
-	// @include opacity(0.5);
+:not(object) {
+	
 }
