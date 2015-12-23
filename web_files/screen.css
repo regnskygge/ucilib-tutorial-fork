@@ -529,3 +529,8 @@ a:active, a:hover {
 
 form {
   display: inline; }
+
+object {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+  opacity: 0.5;
+  background-color: #900; }
